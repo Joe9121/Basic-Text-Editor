@@ -12,7 +12,7 @@ The Simple Text Editor provides a minimalistic interface for users to input and 
 
 ## Usage
 
-1. Open the `index.html` file in a web browser.
+1. Open the `p1.html` file in a web browser.
 
 2. The text editor will appear on the web page.
 
@@ -28,10 +28,6 @@ You can customize the text editor by modifying the CSS styles in the `<style>` s
 - Saving and loading files from a server.
 - Spell-checking or other text processing features.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Credits
 
-Created by [Your Name]
+Created by Joseph Michael.
