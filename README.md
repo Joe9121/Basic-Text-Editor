@@ -39,10 +39,10 @@
 
     <h2>Customization</h2>
     <h3>Changing Styles</h3>
-    <p>You can customize the text editor's appearance by editing the CSS in the <code>&lt;style&gt;</code> section of the HTML file. Adjust fonts, colors, and layout to suit your preferences.</p>
+    <p>You can customize the text editor's appearance by editing the CSS in the `<style>` section of the HTML file. Adjust fonts, colors, and layout to suit your preferences.</p>
     
     <h3>Adding Features</h3>
-    <p>If you wish to add more features to the text editor, explore the <code>script</code> section in <code>index.html</code>. There, you can enhance the JavaScript code to include functionalities such as:</p>
+    <p>If you wish to add more features to the text editor, explore the `<script>` section in `index.html`. There, you can enhance the JavaScript code to include functionalities such as:</p>
     <ul>
         <li>Text formatting options (e.g., bold, italic).</li>
         <li>Exporting and importing text files.</li>
